@@ -1,0 +1,27 @@
+* {
+    font-family: sans-serif;
+}
+h1 {
+    margin: auto;
+    margin-left: 45%;
+}
+img {
+    height: auto;
+    width: 250px;
+    margin-left: 43%;
+}
+a.primary {
+    margin-left: 50%;
+    text-decoration: none;
+    color: black;
+}
+p {
+    margin-left: 45%;
+}
+ul{
+    margin-left: 45%;
+}
+a.secondary{
+    text-decoration: none;
+    color: black;
+}
